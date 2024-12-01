@@ -6,4 +6,5 @@ public class HelloWorld {
     private int test2;
     private int test3;
     private int test4;
+    private int test5;
 }
