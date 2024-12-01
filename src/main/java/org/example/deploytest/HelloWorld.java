@@ -7,4 +7,5 @@ public class HelloWorld {
     private int test3;
     private int test4;
     private int test5;
+    private int test6;
 }
